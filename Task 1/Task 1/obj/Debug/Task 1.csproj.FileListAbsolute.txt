@@ -1,0 +1,7 @@
+C:\Users\holdy\OneDrive\Рабочий стол\Task 1\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\holdy\OneDrive\Рабочий стол\Task 1\Task 1\bin\Debug\Task 1.exe
+C:\Users\holdy\OneDrive\Рабочий стол\Task 1\Task 1\bin\Debug\Task 1.pdb
+C:\Users\holdy\OneDrive\Рабочий стол\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\holdy\OneDrive\Рабочий стол\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\holdy\OneDrive\Рабочий стол\Task 1\Task 1\obj\Debug\Task 1.exe
+C:\Users\holdy\OneDrive\Рабочий стол\Task 1\Task 1\obj\Debug\Task 1.pdb
